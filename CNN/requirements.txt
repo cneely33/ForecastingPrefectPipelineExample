@@ -1,0 +1,11 @@
+mxnet==1.9.1
+gluonts==0.13.5
+prefect==2.13.5
+boto3==1.28.62
+pyarrow==13.0.0
+notebook==7.0.5
+jupyter==1.0.0
+numpy==1.23.5
+psycopg2==2.9.9
+python-dotenv==1.0.0
+#prefect-dask==0.2.5
