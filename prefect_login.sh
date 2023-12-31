@@ -1,0 +1,1 @@
+prefect cloud login -k %prefect_login_api_key%
